@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="utf-8">
@@ -16,4 +15,3 @@
             href="mailto:abbbycornelia@gmail.com"> abbbycornelia@gmail.com
             </a>
         </p>
-</html>
