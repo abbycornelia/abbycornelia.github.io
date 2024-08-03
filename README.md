@@ -15,22 +15,3 @@
             href="mailto:abbbycornelia@gmail.com"> abbbycornelia@gmail.com
             </a>
         </p>
-
-h1 {
-    font-size:25px;
-    color:#1a1385;
-}
-h2 {
-    font-size:14px;
-    color:#2f27ab;
-}
-a{
-    color:#929294;
-}
-a:hover {
-color: #ffc200;
-}
-p{
-  font-size:14px;
-    color:#929294;  
-}
