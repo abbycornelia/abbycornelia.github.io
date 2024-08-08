@@ -17,6 +17,6 @@ p{
     color:#929294;  
 }
 hero-image{
-    background-image: src = EVERYFUCKINGDAY.jpg;
+    background-image: url (EVERYFUCKINGDAY.jpg) ;
     width: 400px;
     height: 100px; }
