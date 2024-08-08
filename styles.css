@@ -1,18 +1,18 @@
 h1 {
-    font-size:25px;
+    font-size:25;
     color:#1a1385;
 }
 h2 {
     font-size:14px;
     color:#2f27ab;
 }
-a{
+a {
     color:#929294;
 }
 a:hover {
 color: #ffc200;
 }
-p{
+p {
   font-size:14px;
     color:#929294;  
 }
