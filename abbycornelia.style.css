@@ -16,7 +16,7 @@ p{
   font-size:14px;
     color:#929294;  
 }
-hero-image{
-    background-image: url (EVERYFUCKINGDAY.jpg) ;
-    width: 400px;
-    height: 100px; }
+img {
+background-image: url(EVERYFUCKINGDAY.JPG);
+width: 500px;
+height: 200px; }
