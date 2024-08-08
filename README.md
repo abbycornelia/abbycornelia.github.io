@@ -8,6 +8,9 @@
         <h2>
         is an artist and arts professional living and working in Philadelphia, Pennsylvania.<span style="font-weight:400"> Cornelia reconstructs domestic messes that conjure feelings of anger and guilt. She works quickly and favors thin washes of color to develop paintings with deep memory. The artist offers her subjects privacy in their imperfect depiction and uses painting as a unique opportunity for levity.</span>
         </h2>
+          <p>
+    <img src="EVERYFUCKINGDAY.jpg" alt="Every Fucking Day" title="Every Fucking Day">              
+          </p>
       </div>
         <p>
             contact:
