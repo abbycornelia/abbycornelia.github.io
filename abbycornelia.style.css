@@ -9,18 +9,20 @@ h2 {
     font-size:25px;
     color:#1a1385;
     margin-left:50px;
-    margin-right: 200px;
+    margin-right: 150px;
 
 }
 a{
     color:#929294;
+    margin-left: 50px;
 }
 a:hover {
 color: #ffc200;
 }
 p{
   font-size:24px;
-    color:#929294;  
+    color:#929294;
+    margin-left:50px
 }
 img{
 { width: 400px; height: 400px; object-fit: contain; margin: center }
