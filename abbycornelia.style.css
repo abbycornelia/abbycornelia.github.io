@@ -2,12 +2,14 @@ h1 {
     font-size:75px;
     color:#1a1385;
     margin-left: 50px;
+    margin-top:200px;
     line-height: 0px;
 }
 h2 {
     font-size:25px;
     color:#1a1385;
     margin-left:50px;
+    margin-right: 200px;
 
 }
 a{
