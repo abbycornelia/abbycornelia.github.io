@@ -1,10 +1,13 @@
 h1 {
     font-size:75px;
     color:#1a1385;
+    margin-left: 20px
 }
 h2 {
     font-size:25px;
     color:#1a1385;
+    margin-left:20px
+    margin-right:80px
 }
 a{
     color:#929294;
@@ -13,10 +16,8 @@ a:hover {
 color: #ffc200;
 }
 p{
-  font-size:14px;
+  font-size:24px;
     color:#929294;  
 }
-.Everyfuckingday{
-width: 100%;
-display: block;
-}
+img{
+{ width: 400px; height: 400px; object-fit: contain; margin: center }
