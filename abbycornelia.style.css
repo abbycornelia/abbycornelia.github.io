@@ -22,7 +22,9 @@ color: #ffc200;
 p{
   font-size:24px;
     color:#929294;
-    margin-left:50px
+    margin-left:50px;
+    text-decoration: none;
+    font-family: Arial;
 }
 img{
 { width: 400px; height: 400px; object-fit: contain; margin: center }
