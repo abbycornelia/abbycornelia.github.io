@@ -17,11 +17,11 @@ color: color:#1a1385;
 h2{
     text-size: 25px;
     color:#929294;
-    margin-left: 50px;
+    margin-left: 100px;
     text-decoration: none;
     font-family: Arial;
 }
 a:hover {
 color: #ffc200;
-text-decoration: bold;
+text-decoration: none;
 }
