@@ -1,4 +1,16 @@
 video { width: 500px; height: 250px; object-fit: contain; margin-top: 50px; line-height: 0px; margin-left:50px }
-h1{ text-align: center;
-   font-size: 72px
-   font-color: blue;}
+ h1 {
+    font-size:75px;
+    color:#929294;
+    margin-left: 50px;
+    margin-top:100px;
+    line-height: 0px;
+    font-family: Arial;
+}
+a{
+    color:#929294;
+    text-decoration: none;
+}
+a:hover {
+color: color:#1a1385;
+} 
