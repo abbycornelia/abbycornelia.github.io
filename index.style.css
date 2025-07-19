@@ -1,3 +1,13 @@
+.hero{
+    border: 1px solid;
+    margin: 5px;
+    width: 800px;
+}
+.hero .description{
+     font-size: 30px;
+     color:#1a1385;
+    font-family: Arial;
+}
 
 .gallery{
     display: inline-block;
