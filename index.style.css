@@ -49,4 +49,10 @@ a:hover {
 color: #ffc200;
 text-decoration: none;
 }
-  
+  p{
+  font-size:24px;
+    color:#929294;
+    margin-left:50px;
+    text-decoration: none;
+    font-family: Arial;
+}
