@@ -1,8 +1,4 @@
- .headshot{
-     width: 50%;
-         height: auto;
-     margin-left: 50px
- }
+
 h1 {
     font-size:75px;
      color:#1a1385;
@@ -42,4 +38,4 @@ p{
     font-family: Arial;
 }
 img{
-{ width: 400px; height: 400px; object-fit: contain; margin: center }
+{ width: 400px; height: auto; margin-left: 50px; }
