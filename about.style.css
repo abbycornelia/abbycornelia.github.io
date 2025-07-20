@@ -1,4 +1,8 @@
-
+ .headshot img{
+     display: inline-clock;
+     width: 50%;
+         height: auto;
+ }
 h1 {
     font-size:75px;
      color:#1a1385;
