@@ -6,7 +6,7 @@ h1 {
     line-height: 0px;
      margin-right: 175px;
     font-family: Arial;
-    text-decoration: none
+    text-decoration: none;
 }
 h2 {
     font-size:25px;
@@ -17,7 +17,7 @@ h2 {
     text-decoration: none;
 }
 a{
-    text-decoration: none
+    text-decoration: none;
 }
 a:hover {
 color: #ffc200;
@@ -33,7 +33,7 @@ text-decoration: none;
   }
 .responsive{
     width: 90%;
-    height: auto:
+    height: auto;
 }
 
 .gallery{
