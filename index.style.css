@@ -16,6 +16,7 @@
     font-family: Arial;
 }
  .gallery img{
+     display: inline-clock;
      width: 100%;
          height: auto;
  }
