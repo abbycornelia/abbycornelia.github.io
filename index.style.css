@@ -52,3 +52,6 @@ text-decoration: none;
      width: 100%;
          height: auto;
  }
+.gallery:hover{
+    border: 2px solid
+}
