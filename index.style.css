@@ -37,18 +37,16 @@ text-decoration: none;
 }
 
 .gallery{
-    display: inline-block;
     border: 1px solid;
     margin: 5px;
     width: 400px;
 }
 .gallery .description{
-    display: inline-block;
      font-size: 20px;
      color:#1a1385;
     font-family: Arial;
 }
  .gallery img{
-     display: inline-block;
      width: 100%;
          height: auto;
+ }
