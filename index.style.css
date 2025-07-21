@@ -37,7 +37,7 @@ text-decoration: none;
 }
 
 .gallery{
-    display: inline;
+    display: inline-block;
     border: 1px solid;
     margin: 5px;
     width: 400px;
