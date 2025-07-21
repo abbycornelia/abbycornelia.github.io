@@ -48,6 +48,6 @@ text-decoration: none;
     font-family: Arial;
 }
  .gallery img{
-     display: inline-clock;
+     display: inline-block;
      width: 100%;
          height: auto;
