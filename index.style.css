@@ -49,6 +49,7 @@ text-decoration: none;
     margin: 5px;
 }
  .gallery img{
+     display: inline-block;
      width: 100%;
          height: auto;
  }
