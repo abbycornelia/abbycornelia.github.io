@@ -43,10 +43,10 @@ text-decoration: none;
     width: 600px;
 }
 .description{
-     font-size: 20px;
+     display: inline-block;
+    font-size: 20px;
      color:#1a1385;
     font-family: Arial;
-    margin: 5px;
     width: 600px;
 }
  .gallery img{
