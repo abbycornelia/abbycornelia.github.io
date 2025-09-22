@@ -47,6 +47,7 @@ text-decoration: none;
      color:#1a1385;
     font-family: Arial;
     margin: 5px;
+    width: 600px;
 }
  .gallery img{
      display: inline-block;
